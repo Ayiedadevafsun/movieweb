@@ -1,0 +1,622 @@
+[
+  {
+    "type": "movie",
+    "title": "Lee Cronin's The Mummy",
+    "year": "2026",
+    "genre": [
+      "Horror",
+      "Mystery"
+    ],
+    "duration": "133 min",
+    "rating": 8.073,
+    "description": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "poster": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
+    "link": "/2026/06/full-movie.html?id=1304313"
+  },
+  {
+    "type": "movie",
+    "title": "Tom Clancy's Jack Ryan: Ghost War",
+    "year": "2026",
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "duration": "107 min",
+    "rating": 7.233,
+    "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+    "poster": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-4ZVFspRn3M",
+    "link": "/2026/06/full-movie.html?id=1380291"
+  },
+  {
+    "type": "movie",
+    "title": "Obsession",
+    "year": "2026",
+    "genre": [
+      "Horror"
+    ],
+    "duration": "108 min",
+    "rating": 7.945,
+    "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "poster": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+    "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
+    "link": "/2026/06/full-movie.html?id=1339713"
+  },
+  {
+    "type": "movie",
+    "title": "The Punisher: One Last Kill",
+    "year": "2026",
+    "genre": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "duration": "51 min",
+    "rating": 8.389,
+    "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+    "poster": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+    "trailer": "https://www.youtube.com/watch?v=oSeqs_xeqv4",
+    "link": "/2026/06/full-movie.html?id=1439930"
+  },
+  {
+    "type": "movie",
+    "title": "Project Hail Mary",
+    "year": "2026",
+    "genre": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "duration": "157 min",
+    "rating": 8.638,
+    "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
+    "link": "/2026/06/full-movie.html?id=687163"
+  },
+  {
+    "type": "movie",
+    "title": "The Super Mario Galaxy Movie",
+    "year": "2026",
+    "genre": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "duration": "98 min",
+    "rating": 8.043,
+    "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+    "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+    "trailer": "https://www.youtube.com/watch?v=En5QZmL5R1s",
+    "link": "/2026/06/full-movie.html?id=1226863"
+  },
+  {
+    "type": "movie",
+    "title": "Dhurandhar: The Revenge",
+    "year": "2026",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "duration": "229 min",
+    "rating": 7.3,
+    "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+    "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I",
+    "link": "/2026/06/full-movie.html?id=1582770"
+  },
+  {
+    "type": "movie",
+    "title": "Swapped",
+    "year": "2026",
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "duration": "102 min",
+    "rating": 9,
+    "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+    "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "trailer": "https://www.youtube.com/watch?v=glgmAwRDP8s",
+    "link": "/2026/06/full-movie.html?id=1007757"
+  },
+  {
+    "type": "movie",
+    "title": "Your Heart Will Be Broken",
+    "year": "2026",
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "duration": "134 min",
+    "rating": 6.784,
+    "description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+    "poster": "https://image.tmdb.org/t/p/w500/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+    "trailer": "",
+    "link": "/2026/06/full-movie.html?id=1523145"
+  },
+  {
+    "type": "movie",
+    "title": "Pati Patni Aur Woh Do",
+    "year": "2026",
+    "genre": [
+      "Comedy"
+    ],
+    "duration": "117 min",
+    "rating": 7.5,
+    "description": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "trailer": "",
+    "link": "/2026/06/full-movie.html?id=1320660"
+  },
+  {
+    "type": "movie",
+    "title": "Backrooms",
+    "year": "2026",
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "duration": "110 min",
+    "rating": 6.6,
+    "description": "A strange doorway appears in the basement of a furniture showroom.",
+    "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
+    "link": "/2026/06/full-movie.html?id=1083381"
+  },
+  {
+    "type": "movie",
+    "title": "Mortal Kombat II",
+    "year": "2026",
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": "116 min",
+    "rating": 6.776,
+    "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
+    "link": "/2026/06/full-movie.html?id=931285"
+  },
+  {
+    "type": "movie",
+    "title": "The Mandalorian and Grogu",
+    "year": "2026",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "duration": "132 min",
+    "rating": 6.8,
+    "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
+    "link": "/2026/06/full-movie.html?id=1228710"
+  },
+  {
+    "type": "movie",
+    "title": "System",
+    "year": "2026",
+    "genre": [
+      "Thriller"
+    ],
+    "duration": "124 min",
+    "rating": 7.5,
+    "description": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
+    "poster": "https://image.tmdb.org/t/p/w500/8qrddM5BRcTuqjc9crJY6e3gyE6.jpg",
+    "trailer": "https://www.youtube.com/watch?v=AdZ_I4ySZoI",
+    "link": "/2026/06/full-movie.html?id=1431071"
+  },
+  {
+    "type": "movie",
+    "title": "Chand Mera Dil",
+    "year": "2026",
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "duration": "142 min",
+    "rating": 0,
+    "description": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+    "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+    "trailer": "",
+    "link": "/2026/06/full-movie.html?id=1371023"
+  },
+  {
+    "type": "movie",
+    "title": "Mortal Kombat",
+    "year": "2021",
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "duration": "110 min",
+    "rating": 7.033,
+    "description": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+    "poster": "https://image.tmdb.org/t/p/w500/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+    "trailer": "https://www.youtube.com/watch?v=QJHY4ggYCk4",
+    "link": "/2026/06/full-movie.html?id=460465"
+  },
+  {
+    "type": "movie",
+    "title": "The Devil Wears Prada",
+    "year": "2006",
+    "genre": [
+      "Drama",
+      "Comedy"
+    ],
+    "duration": "109 min",
+    "rating": 7.424,
+    "description": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "poster": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6ZOZwUQKu3E",
+    "link": "/2026/06/full-movie.html?id=350"
+  },
+  {
+    "type": "movie",
+    "title": "The Shadow's Edge",
+    "year": "2025",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "duration": "142 min",
+    "rating": 7.399,
+    "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+    "poster": "https://image.tmdb.org/t/p/w500/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+    "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg",
+    "link": "/2026/06/full-movie.html?id=1419406"
+  },
+  {
+    "type": "movie",
+    "title": "Hoppers",
+    "year": "2026",
+    "genre": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "duration": "104 min",
+    "rating": 8.144,
+    "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
+    "link": "/2026/06/full-movie.html?id=1327819"
+  },
+  {
+    "type": "movie",
+    "title": "Graphic Desires",
+    "year": "2023",
+    "genre": [
+      "Thriller",
+      "Crime"
+    ],
+    "duration": "90 min",
+    "rating": 7.039,
+    "description": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
+    "poster": "https://image.tmdb.org/t/p/w500/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+    "trailer": "https://www.youtube.com/watch?v=hK21ALZussc",
+    "link": "/2026/06/full-movie.html?id=976912"
+  },
+  {
+    "type": "series",
+    "title": "Home and Away",
+    "year": "1988",
+    "genre": [
+      "Drama",
+      "Soap"
+    ],
+    "duration": "39 Seasons",
+    "rating": 6.3,
+    "description": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
+    "poster": "https://image.tmdb.org/t/p/w500/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
+    "trailer": "",
+    "link": "/2026/06/tv-show.html?id=2354"
+  },
+  {
+    "type": "series",
+    "title": "Off Campus",
+    "year": "2026",
+    "genre": [
+      "Drama"
+    ],
+    "duration": "1 Seasons",
+    "rating": 9.177,
+    "description": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+    "poster": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+    "trailer": "https://www.youtube.com/watch?v=wAozjf2frxw",
+    "link": "/2026/06/tv-show.html?id=273240"
+  },
+  {
+    "type": "series",
+    "title": "FROM",
+    "year": "2022",
+    "genre": [
+      "Mystery",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "duration": "4 Seasons",
+    "rating": 8.418,
+    "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+    "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pDHqAj4eJcM",
+    "link": "/2026/06/tv-show.html?id=124364"
+  },
+  {
+    "type": "series",
+    "title": "The Boys",
+    "year": "2019",
+    "genre": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "duration": "5 Seasons",
+    "rating": 8.458,
+    "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "trailer": "https://www.youtube.com/watch?v=tcrNsIaQkb4",
+    "link": "/2026/06/tv-show.html?id=76479"
+  },
+  {
+    "type": "series",
+    "title": "Spider-Noir",
+    "year": "2026",
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "duration": "1 Seasons",
+    "rating": 8.982,
+    "description": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "trailer": "https://www.youtube.com/watch?v=e5QW457407U",
+    "link": "/2026/06/tv-show.html?id=220102"
+  },
+  {
+    "type": "series",
+    "title": "Law & Order: Special Victims Unit",
+    "year": "1999",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": "27 Seasons",
+    "rating": 7.944,
+    "description": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "poster": "https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "trailer": "",
+    "link": "/2026/06/tv-show.html?id=2734"
+  },
+  {
+    "type": "series",
+    "title": "Grey's Anatomy",
+    "year": "2005",
+    "genre": [
+      "Drama"
+    ],
+    "duration": "23 Seasons",
+    "rating": 8.209,
+    "description": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+    "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+    "trailer": "",
+    "link": "/2026/06/tv-show.html?id=1416"
+  },
+  {
+    "type": "series",
+    "title": "The Rookie",
+    "year": "2018",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "duration": "9 Seasons",
+    "rating": 8.545,
+    "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8BPlx6eK1vc",
+    "link": "/2026/06/tv-show.html?id=79744"
+  },
+  {
+    "type": "series",
+    "title": "Euphoria",
+    "year": "2019",
+    "genre": [
+      "Drama"
+    ],
+    "duration": "3 Seasons",
+    "rating": 8.29,
+    "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+    "trailer": "https://www.youtube.com/watch?v=UR4Pxgnm-GA",
+    "link": "/2026/06/tv-show.html?id=85552"
+  },
+  {
+    "type": "series",
+    "title": "Law & Order",
+    "year": "1990",
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "duration": "25 Seasons",
+    "rating": 7.314,
+    "description": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=RzN8cPlcMTU",
+    "link": "/2026/06/tv-show.html?id=549"
+  },
+  {
+    "type": "series",
+    "title": "Supernatural",
+    "year": "2005",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "duration": "15 Seasons",
+    "rating": 8.307,
+    "description": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+    "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+    "trailer": "https://www.youtube.com/watch?v=yy96yJjkvjo",
+    "link": "/2026/06/tv-show.html?id=1622"
+  },
+  {
+    "type": "series",
+    "title": "Tagesschau",
+    "year": "1952",
+    "genre": [
+      "News"
+    ],
+    "duration": "75 Seasons",
+    "rating": 6.759,
+    "description": "German daily news program, the oldest still existing program on German television.",
+    "poster": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "trailer": "",
+    "link": "/2026/06/tv-show.html?id=94722"
+  },
+  {
+    "type": "series",
+    "title": "NCIS",
+    "year": "2003",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "duration": "23 Seasons",
+    "rating": 7.62,
+    "description": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "poster": "https://image.tmdb.org/t/p/w500/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "trailer": "https://www.youtube.com/watch?v=BhtDgn31XZo",
+    "link": "/2026/06/tv-show.html?id=4614"
+  },
+  {
+    "type": "series",
+    "title": "Game of Thrones",
+    "year": "2011",
+    "genre": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "duration": "8 Seasons",
+    "rating": 8.5,
+    "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+    "link": "/2026/06/tv-show.html?id=1399"
+  },
+  {
+    "type": "series",
+    "title": "Criminal Minds",
+    "year": "2005",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": "19 Seasons",
+    "rating": 8.3,
+    "description": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "trailer": "https://www.youtube.com/watch?v=NTYxiJBbEZk",
+    "link": "/2026/06/tv-show.html?id=4057"
+  },
+  {
+    "type": "series",
+    "title": "Berlin and the Lady with an Ermine",
+    "year": "2026",
+    "genre": [
+      "Drama",
+      "Crime",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "duration": "1 Seasons",
+    "rating": 8.482,
+    "description": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
+    "poster": "https://image.tmdb.org/t/p/w500/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Ltrc8z4AXKo",
+    "link": "/2026/06/tv-show.html?id=308014"
+  },
+  {
+    "type": "series",
+    "title": "The Simpsons",
+    "year": "1989",
+    "genre": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "duration": "37 Seasons",
+    "rating": 8.018,
+    "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "trailer": "https://www.youtube.com/watch?v=_jgYEYERYFQ",
+    "link": "/2026/06/tv-show.html?id=456"
+  },
+  {
+    "type": "series",
+    "title": "The Mentalist",
+    "year": "2008",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": "7 Seasons",
+    "rating": 8.352,
+    "description": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "trailer": "",
+    "link": "/2026/06/tv-show.html?id=5920"
+  },
+  {
+    "type": "series",
+    "title": "The Tonight Show Starring Johnny Carson",
+    "year": "1962",
+    "genre": [
+      "Talk"
+    ],
+    "duration": "31 Seasons",
+    "rating": 7.533,
+    "description": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "poster": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zyl4Vvjc7pI",
+    "link": "/2026/06/tv-show.html?id=2261"
+  },
+  {
+    "type": "series",
+    "title": "Family Guy",
+    "year": "1999",
+    "genre": [
+      "Animation",
+      "Comedy"
+    ],
+    "duration": "24 Seasons",
+    "rating": 7.4,
+    "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+    "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+    "trailer": "https://www.youtube.com/watch?v=J32iwo65RMc",
+    "link": "/2026/06/tv-show.html?id=1434"
+  }
+]
